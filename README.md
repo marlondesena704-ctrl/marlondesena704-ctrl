@@ -1,7 +1,8 @@
-## Hello there
 
 
 
 
-- 🔭 I’m currently working as TI Supporter
-- 🌱 I’m currently learning System Development
+
+- Trabalhando como Suporte de TI
+- Estudando Desenvolvimento de Sistemas
+- Interesse em Java, HTML, CSS e MySQL
