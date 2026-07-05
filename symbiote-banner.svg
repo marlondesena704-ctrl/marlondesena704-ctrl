@@ -1,0 +1,45 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Banner simbionte devorando o texto, piada sobre Java</title>
+<defs>
+<linearGradient id="goo" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#1a1a22"/>
+<stop offset="100%" stop-color="#050506"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="900" height="260" fill="#07070a"/>
+<rect x="0" y="0" width="900" height="260" fill="url(#goo)" opacity="0.6"/>
+
+<path d="M0,260 L0,165 C25,178 20,140 45,146 C70,152 58,188 82,182 C100,178 94,206 120,200 C138,196 132,224 158,218 L178,260 Z" fill="#0c0c10"/>
+<path d="M0,165 C25,178 20,140 45,146" stroke="#7a1f2b" stroke-width="1.4" fill="none" opacity="0.7"/>
+<path d="M36,138 L45,124 L54,138 Z" fill="#0c0c10"/>
+<path d="M76,178 L82,163 L91,178 Z" fill="#0c0c10"/>
+
+<path d="M900,260 L900,152 C874,164 880,128 854,134 C828,140 834,176 808,170 C790,166 794,196 768,190 C748,186 742,214 716,208 L692,260 Z" fill="#0c0c10"/>
+<path d="M900,152 C874,164 880,128 854,134" stroke="#7a1f2b" stroke-width="1.4" fill="none" opacity="0.7"/>
+<path d="M845,124 L854,109 L863,124 Z" fill="#0c0c10"/>
+<path d="M799,163 L808,146 L817,163 Z" fill="#0c0c10"/>
+
+<path d="M0,0 L120,0 C126,17 106,22 116,37 C123,47 103,52 111,64 L79,64 C72,49 89,44 82,32 C76,22 89,15 78,0 Z" fill="#0c0c10"/>
+<path d="M111,64 L119,79 L104,74 Z" fill="#0c0c10"/>
+
+<path d="M900,0 L780,0 C773,17 793,22 783,37 C776,47 796,52 788,64 L820,64 C827,49 810,44 817,32 C823,22 810,15 821,0 Z" fill="#0c0c10"/>
+
+<path d="M230,0 C226,12 236,17 231,29 C227,38 234,45 229,55 L245,55 C250,45 243,38 247,29 C252,17 242,12 246,0 Z" fill="#0c0c10"/>
+<path d="M620,0 C616,11 624,16 620,26 C616,34 623,41 619,50 L633,50 C637,41 631,34 635,26 C639,16 631,11 635,0 Z" fill="#0c0c10"/>
+
+<text x="450" y="128" text-anchor="middle" font-size="52" font-weight="700" fill="#f2f0ea" font-family="sans-serif" letter-spacing="2">MARLON SILVA</text>
+
+<path d="M195,140 C225,137 255,145 285,140" stroke="#0c0c10" stroke-width="17" fill="none" stroke-linecap="round" opacity="0.9"/>
+<path d="M615,140 C645,145 665,137 695,142" stroke="#0c0c10" stroke-width="15" fill="none" stroke-linecap="round" opacity="0.9"/>
+
+<text x="450" y="178" text-anchor="middle" font-size="18" fill="#b8302f" font-family="sans-serif" font-style="italic">enlouquecendo aos poucos por causa do Java...</text>
+
+<g>
+<rect x="778" y="196" width="42" height="34" rx="3" fill="#2a2a30" stroke="#45454c" stroke-width="1.2"/>
+<path d="M820,202 C833,202 833,224 820,224" stroke="#45454c" stroke-width="2.4" fill="none"/>
+<path d="M781,196 C786,187 792,194 797,187 C802,194 808,187 813,196" stroke="#c9c9c4" stroke-width="1.8" fill="none" opacity="0.5"/>
+<path d="M789,196 C798,205 779,213 787,232 C792,238 815,238 820,228 C825,218 806,211 812,201 Z" fill="#0c0c10" opacity="0.95"/>
+</g>
+
+<text x="450" y="246" text-anchor="middle" font-size="13" fill="#5c5c62" font-family="'Courier New', monospace">public static void sanidade() { return null; }</text>
+</svg>
