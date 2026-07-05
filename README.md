@@ -1,1 +1,1 @@
-![banner](./symbiote_java_banner.svg)
+![banner](./symbiote-banner.svg)
